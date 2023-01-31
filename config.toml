@@ -1,6 +1,7 @@
 baseURL = 'http://www.stupidaction.online/'
 languageCode = 'en-us'
 title = 'stupid action online'
+publishDir = "docs"
 
 [menu]
   [[menu.main]]

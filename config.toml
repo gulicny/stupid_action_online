@@ -1,4 +1,4 @@
-baseURL = 'https://gulicny.github.io/stupid_action_online/'
+baseURL = 'http://stupidaction.online/'
 languageCode = 'en-us'
 title = 'stupid action online'
 publishDir = "docs"

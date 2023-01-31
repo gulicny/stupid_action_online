@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gulicny.github.io/stupid_action_online/</loc>
+    <loc>http://stupidaction.online/</loc>
     <lastmod>2020-09-03T17:27:59+07:00</lastmod>
   </url><url>
-    <loc>https://gulicny.github.io/stupid_action_online/posts/my-first-post/</loc>
+    <loc>http://stupidaction.online/posts/my-first-post/</loc>
     <lastmod>2020-09-03T17:27:59+07:00</lastmod>
   </url><url>
-    <loc>https://gulicny.github.io/stupid_action_online/posts/my-second-post/</loc>
+    <loc>http://stupidaction.online/posts/my-second-post/</loc>
     <lastmod>2020-09-03T17:27:59+07:00</lastmod>
   </url><url>
-    <loc>https://gulicny.github.io/stupid_action_online/posts/</loc>
+    <loc>http://stupidaction.online/posts/</loc>
     <lastmod>2020-09-03T17:27:59+07:00</lastmod>
   </url><url>
-    <loc>https://gulicny.github.io/stupid_action_online/about/</loc>
+    <loc>http://stupidaction.online/about/</loc>
   </url><url>
-    <loc>https://gulicny.github.io/stupid_action_online/categories/</loc>
+    <loc>http://stupidaction.online/categories/</loc>
   </url><url>
-    <loc>https://gulicny.github.io/stupid_action_online/tags/</loc>
+    <loc>http://stupidaction.online/tags/</loc>
   </url>
 </urlset>

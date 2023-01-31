@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on stupid action online</title>
-    <link>http://www.stupidaction.online/posts/</link>
+    <link>https://gulicny.github.io/stupid_action_online/posts/</link>
     <description>Recent content in Posts on stupid action online</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2020 17:27:59 +0700</lastBuildDate><atom:link href="http://www.stupidaction.online/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2020 17:27:59 +0700</lastBuildDate><atom:link href="https://gulicny.github.io/stupid_action_online/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://www.stupidaction.online/posts/my-first-post/</link>
+      <link>https://gulicny.github.io/stupid_action_online/posts/my-first-post/</link>
       <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
       
-      <guid>http://www.stupidaction.online/posts/my-first-post/</guid>
+      <guid>https://gulicny.github.io/stupid_action_online/posts/my-first-post/</guid>
       <description>Here&amp;rsquo;s an example blog post.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://www.stupidaction.online/posts/my-second-post/</link>
+      <link>https://gulicny.github.io/stupid_action_online/posts/my-second-post/</link>
       <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
       
-      <guid>http://www.stupidaction.online/posts/my-second-post/</guid>
+      <guid>https://gulicny.github.io/stupid_action_online/posts/my-second-post/</guid>
       <description>whats up</description>
     </item>
     

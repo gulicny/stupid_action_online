@@ -1,4 +1,4 @@
-baseURL = 'http://stupidaction.online/'
+baseURL = 'https://stupidaction.online/'
 languageCode = 'en-us'
 title = 'stupid action online'
 publishDir = "docs"
